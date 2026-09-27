@@ -51,7 +51,7 @@ The project combines a visually rich interface with smooth animations, interacti
 - **Next.js 16**
 - **React 19**
 - **TypeScript**
-- **Tailwind CSS 4**
+- **Tailwind CSS**
 
 ### Animation & UI
 

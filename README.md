@@ -13,7 +13,7 @@
   </a>
 </p>
 
----
+-----
 
 ## ✈️ About The Project
 
@@ -21,7 +21,7 @@
 
 The project combines a visually rich interface with smooth animations, interactive elements, destination information, and an interactive map to create an engaging travel experience.
 
----
+-----
 
 ## ✨ Features
 
@@ -38,7 +38,7 @@ The project combines a visually rich interface with smooth animations, interacti
 - 🎨 Modern UI with Tailwind CSS
 - 🧩 Reusable React components
 
----
+-----
 
 ## 🛠️ Technologies Used
 
@@ -67,7 +67,7 @@ The project combines a visually rich interface with smooth animations, interacti
 
 - **Vercel**
 
----
+-----
 
 ## 🗺️ Interactive Map
 
@@ -75,7 +75,7 @@ Journey Beyond uses **Leaflet** and **React Leaflet** to provide an interactive 
 
 Users can explore destination locations through the map and interact with location-based travel content.
 
----
+-----
 
 ## 🎬 Animations & Interactions
 
